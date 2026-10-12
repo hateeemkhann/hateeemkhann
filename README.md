@@ -37,7 +37,7 @@
 
 **Frameworks & Libraries**
 
-<img src="https://img.shields.io/badge/JavaFX-EA2D2E?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Java%20Swing-007396?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/CrewAI-FF5722?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaFX-EA2D2E?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Java%20Swing-007396?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 
 **Tools & Development**
 
@@ -49,7 +49,7 @@
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| [**FasalAI**](https://github.com/hateeemkhann/FasalAI) | AI-powered agricultural advisory platform with multi-agent disease diagnostics, real-time weather alerts, and export compliance checks | Python, CrewAI, GPT-4o, Streamlit |
+| [**FasalAI**](https://github.com/hateeemkhann/FasalAI) | AI-powered agricultural advisory platform with multi-agent disease diagnostics, real-time weather alerts, and export compliance checks | Python, OpenAI GPT-4o, Streamlit |
 | [**Banking Management System**](https://github.com/hateeemkhann/BankAccountSimulation) | Robust banking simulation system featuring transaction management, card issuance, loan approvals, and role-based access control | Java, Swing, SQL Server, JDBC |
 | [**CourseSchedulerFX**](https://github.com/hateeemkhann/CourseSchedulerFX) | Academic timetable scheduler with automated collision detection using custom data structures (Trees, Queues, LinkedLists) | Java 11, JavaFX, Azure SQL, Maven |
 | **Inventory Management System** | Desktop inventory and order management system with duplicate entry prevention and multi-role administrative access | Java, Swing, File I/O |
