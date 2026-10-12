@@ -49,7 +49,7 @@
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| [**FasalAI**](https://github.com/hateeemkhann/FasalAI) | AI-powered agricultural advisory platform with multi-agent disease diagnostics, real-time weather alerts, and export compliance checks | Python, OpenAI GPT-4o, Streamlit |
+| [**FasalAI**](https://github.com/hateeemkhann/FasalAI) | AI-powered agricultural advisory platform with multi-agent disease diagnostics, real-time weather alerts, and export compliance checks | Python, GPT-4o, Streamlit |
 | [**Banking Management System**](https://github.com/hateeemkhann/BankAccountSimulation) | Robust banking simulation system featuring transaction management, card issuance, loan approvals, and role-based access control | Java, Swing, SQL Server, JDBC |
 | [**CourseSchedulerFX**](https://github.com/hateeemkhann/CourseSchedulerFX) | Academic timetable scheduler with automated collision detection using custom data structures (Trees, Queues, LinkedLists) | Java 11, JavaFX, Azure SQL, Maven |
 | **Inventory Management System** | Desktop inventory and order management system with duplicate entry prevention and multi-role administrative access | Java, Swing, File I/O |
